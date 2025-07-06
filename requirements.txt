@@ -1,0 +1,7 @@
+pip freeze > requirements.txt
+beautifulsoup4
+gspread
+oauth2client
+pandas
+playwright
+requests

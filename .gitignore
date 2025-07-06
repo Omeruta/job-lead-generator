@@ -1,0 +1,6 @@
+# .gitignore
+creds.json
+remoteok_jobs.csv
+__pycache__/
+venv/
+.env
